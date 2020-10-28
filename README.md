@@ -1,5 +1,5 @@
 # Matplotlib Challenge
-matplotlib-challenge week 5 homework, done by Jeongdae (JD) Kwak
+matplotlib-challenge week 5 homework, done by Jeongdae (JD) Kwak.
 
 ## Background
 What good is data without a good plot to tell the story?
